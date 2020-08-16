@@ -51,7 +51,7 @@
 ```
 pkg install python git
 git clone https://github.com/dz-id/mbf
-python -m pip install -r requirements.txt
+python -m pip install -r mbf/requirements.txt
 ```
 ### And run this script
 ```
