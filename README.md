@@ -15,19 +15,19 @@
     <img alt="Language" src="https://img.shields.io/github/languages/count/dz-id/mbf.svg"/>
   </a>
   <a href="https://github.com/dz-id">
-    <img alt="Top Language" src="https://img.shields.io/github/languages/top/mbf/mbf.svg"/>
+    <img alt="Top Language" src="https://img.shields.io/github/languages/top/dz-id/mbf.svg"/>
   </a>
   <a href="https://github.com/dz-id">
     <img alt="Search" src="https://img.shields.io/github/search/dz-id/mbf/mbf.svg"/>
   </a>
   <a href="https://github.com/dz-id">
-    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/mbf/mbf.svg"/>
+    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/dz-id/mbf.svg"/>
   </a>
   <a href="https://github.com/dz-id">
     <img alt="Starts" src="https://img.shields.io/github/stars/dz-id/mbf.svg"/>
   </a>
   <a href="https://github.com/dz-id">
-    <img alt="Forks" src="https://img.shields.io/github/forks/mbf/mbf.svg"/>
+    <img alt="Forks" src="https://img.shields.io/github/forks/dz-id/mbf.svg"/>
   </a>
 </div>
 <p align="center">
