@@ -18,7 +18,6 @@ class Store:
 
     passwordList = []
     passwordExtraList = []
-    passwordLimit = 0
     passwordLower = False
     instance = None
 
